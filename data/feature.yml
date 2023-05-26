@@ -1,0 +1,15 @@
+---
+enable: true
+title: چگونه کار میکند؟
+description: ارگو فیکس هنگامی که شما بیش از حد و در مدت طولانی خم شده اید به آرامی به شما هشدار میدهد و شما را آگاه میکند تا پوسچر خود را عوض کنید
+description2:
+buttonText: اکنون خرید کنید
+Title2nd: دستگاه اصلاح ارگونومی ارگوفیکس چگونه کار میکند؟
+description2nd:
+image1: images/feature/feature-illustration-one.svg
+image2: images/feature/feature-illustration-two.svg
+checkItem:
+  - text: دستگاه را در جای خود قرار دهید
+  - text: وست دستگاه را بپوشید
+  - text: با اپلیکیشن موبایل اهداف خود را تنظیم کنید
+  - text: و به هشدار های دستگاه عمل کنید

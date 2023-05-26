@@ -1,0 +1,39 @@
+---
+enable: true
+title: اعضای تیم
+description:
+comments:
+  - text:
+    name: دکتر مهدی وثوقی نیری
+    designation: مدیر عامل
+    image: images/client/doctor.png
+
+  - text:
+    name: اصغر اصغری
+    designation: مهندسی بهداشت محیط
+    image: images/client/asghar.png
+
+  - text:
+    name: نگین فتحی
+    designation: مهندسی بهداشت عمومی
+    image: images/client/negin.png
+
+  - text:
+    name: رضا رضاپور
+    designation: مهندسی بهداشت محیط
+    image: images/client/reza.png
+
+  - text:
+    name: نازلی داداش زاده
+    designation: مهندسی بهداشت محیط
+    image: images/client/nazli.png
+
+  - text:
+    name: محمد امین غفوری
+    designation: مهندسی بهداشت حرفه ای
+    image: images/client/amin.png
+
+  - text:
+    name: نفیسه سادات ایمانی
+    designation: مهندسی بهداشت محیط
+    image: images/client/nafiseh.png

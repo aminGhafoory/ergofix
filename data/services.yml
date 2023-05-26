@@ -1,0 +1,16 @@
+#  icons can be found on https://themify.me/themify-icons
+---
+enable: true
+title: بدن شما از شما تشکر خواهد کرد
+services:
+  - icon: ti-settings
+    title: بدون نیاز به راه اندازی
+    description: هیچ نیازی به راه اندازی ندارد
+
+  - icon: ti-check-box
+    title: اپلیکیشن اختصاصی
+    description: دارای اپلیکیشن اختصاصی برای تنظیمات دستگاه
+
+  - icon: ti-user
+    title: مناسب برای همه سنین
+    description: برای سنین ۹ تا ۹۹ سال مناسب است
