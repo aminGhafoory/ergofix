@@ -1,0 +1,68 @@
+# MAIN base
+baseURL = ''
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-apsho'
+
+# Navigation Bar
+[[menu.main]]
+    name = "خانه"
+    url = "#hero"
+    weight = 1
+[[menu.main]]
+    name = "درباره ما"
+    url = "#feature"
+    weight = 2
+[[menu.main]]
+    name = "سوالات پر تکرار"
+    url = "#faq"
+    weight = 3
+[[menu.main]]
+    name = "بلاگ"
+    url = "#blog"
+    weight = 4
+
+# Footer Sitemap
+[[menu.sitemap]]
+    name = "خانه"
+    url = "#"
+    weight = 1
+[[menu.sitemap]]
+    name = "آخرین مقالات"
+    url = "/blog"
+    weight = 2
+[[menu.sitemap]]
+    name = "شرایط و قوانین"
+    url = "/privacy"
+    weight = 3
+[[menu.sitemap]]
+    name = "تماس با ما"
+    url = "/contact"
+    weight = 4
+
+# Footer Address
+[params.address]
+address = "اردبیل دانشگاه علوم پزشکی اردبیل"
+email = "ghafooriamin3@gmail.com"
+phone = "+98 9351764389"
+
+# Footer Social
+[params.social]
+facebook = "https://www.facebook.com/amin"
+twitter = "https://twitter.com/amin"
+github = "https://github.com/aminghafoury"
+
+[params]
+
+# Header
+logo = "images/logo.png"
+fabFormURL = "https://fabform.io/f/1yWf4Kg"
+googleAnalytics = "UA-175025671-2"
+
+# Footer
+footerTitle = "Get the latest app updates"
+copyright1 = "All right reserved"
+copyright2 = "Copyright ©  <a href=\"https://ergofix.ir/\" target=\"_blank\">Ergofix </a> {year}"
+
+#contact
+email = "ghafooriamin3@gmail.com"
